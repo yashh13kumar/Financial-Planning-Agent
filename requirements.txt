@@ -1,0 +1,8 @@
+streamlit
+plotly
+langchain
+langchain-community
+ollama
+pydantic
+numpy
+pytest
