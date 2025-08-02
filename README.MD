@@ -46,7 +46,7 @@ Implements core financial formulas as pure Python functions (fully unit tested):
 
 ## 📸 Preview
 
-<img src="https://drive.google.com/file/d/1piYK-_cz2xxFBmfXTYv4j7AuWTIgQR-r/view?usp=sharing" width="700"/>
+<img src="/Users/yashkumar/Desktop/2Cents/Screenshot 2025-08-03 at 4.07.00 AM.png" width="700"/>
 
 ---
 
